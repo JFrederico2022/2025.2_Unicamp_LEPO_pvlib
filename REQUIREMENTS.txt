@@ -1,0 +1,23 @@
+REQUIREMENTS
+
+Please, install the following libraries to move forward with the lessons and classes, in which are the minimal requirements needed to follow the lessons:
+
+pip install pvlib numpy pandas matplotlib sklearn
+
+import pvlib
+import numpy as np
+import pandas as pd
+import matplotlib
+import sklearn
+
+print(pvlib.__version__)
+print(np.__version__)
+print(pd.__version__)
+print(matplotlib.__version__)
+print(sklearn.__version__)
+
+pvlib: 0.13.1
+numpy: 2.4.2
+pandas: 2.3.3
+matplotlib: 3.10.1
+sklearn: 1.6.1
