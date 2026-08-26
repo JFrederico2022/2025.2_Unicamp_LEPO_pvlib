@@ -81,6 +81,27 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
            <img src="https://img.shields.io/github/stars/PV-Tutorials/2026_pvlib_tec_de_monterrey?style=social"/>
            </a>
 
+    .. grid-item-card:: 2025.2_Unicamp_LEPO_pvlib
+        
+        .. raw:: html
+
+           <img src="https://raw.githubusercontent.com/PV-Tutorials/2025.2_Unicamp_LEPO_pvlib/refs/heads/main/static/lepo-unicamp-pvlib-modeling-course-logo.png" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+
+        ^^^
+
+        Introductory materials on photovoltaic system modeling, presented in the course IT306 – Photovoltaic Systems at FEEC-Unicamp (2025.2 edition). Source material is in Portuguese.
+
+        +++
+
+        :bdg-link-primary:`Website <https://pv-tutorials.github.io/2025.2_Unicamp_LEPO_pvlib/index.html>` 
+        :bdg-link-primary:`Repository <https://github.com/PV-Tutorials/2025.2_Unicamp_LEPO_pvlib>`
+ 
+        .. raw:: html
+
+           <a href="https://github.com/PV-Tutorials/2025.2_Unicamp_LEPO_pvlib">
+           <img src="https://img.shields.io/github/stars/PV-Tutorials/2025.2_Unicamp_LEPO_pvlib?style=social"/>
+           </a>
+
     .. grid-item-card:: 2025_pvlib_pvsc
         
         .. raw:: html
